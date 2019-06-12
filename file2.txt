@@ -13,6 +13,10 @@ Modificado!
 Modificado!
 Modificado!
 Modificado!
+<<<<<<< HEAD
 Modificado 2
 Modificado 2
 Modificado 2
+=======
+Modificado!
+>>>>>>> 8ecf0fe07649f26ad45d5fd123ca029863158999
